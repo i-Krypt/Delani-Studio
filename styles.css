@@ -1,0 +1,17 @@
+.home{
+    background-image: url('https://i.ibb.co/TWkxxqQ/h-img.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding-top: 15%; 
+    text-align: center;
+    text-transform: uppercase;
+    color: white;
+}
+#logo{
+    padding-bottom: 1%;
+}
+#mouse{
+    margin-top: 10%;
+    padding-bottom: 40px;
+}
