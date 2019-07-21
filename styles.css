@@ -64,3 +64,10 @@
   textarea{
     width: 100%;
   }
+  .social-icons{
+    padding: 0 5px 0 5px;
+  }
+  span{
+    font-size: 15px;
+  }
+ 
