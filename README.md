@@ -8,7 +8,9 @@ Delani studio
 
 ## Setup/Installation Requirements
 Open Terminal {Ctrl+Alt+T}
+
 git clone 
+
 code . or atom . based on the text editor you have.
 #Active links to more of my works
 1.https://drive.google.com/open?id=1kyh8PqipGlCrNC9YbmtbA0Gu3zknhthW
