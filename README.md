@@ -14,7 +14,7 @@ code . or atom . based on the text editor you have.
 1.https://drive.google.com/open?id=1kyh8PqipGlCrNC9YbmtbA0Gu3zknhthW
 2.https://github.com/i-Krypt/One-M.git
 ## Author.
-Sam Nujoma
+Sam Nujoma.
 
 ## Technologies Used
 * [HTML5](https://github.com/topics/html5)
