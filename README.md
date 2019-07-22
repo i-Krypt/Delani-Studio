@@ -9,7 +9,7 @@ Delani studio is a web application that shows details on the services offered an
 ## Setup/Installation Requirements
 Open Terminal {Ctrl+Alt+T}
 
-git clone 
+git clone https://github.com/i-Krypt/Delani-Studio.git
 
 code . or atom . based on the text editor you have.
 
