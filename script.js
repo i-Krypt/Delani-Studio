@@ -12,6 +12,13 @@ $(document).ready(function(){
         prod
     });
     
+    $('.portimg').hover(function(){
+        $('.porttext',this).slideToggle('slow');
+     }, function(){
+        $('.porttext',this).slideToggle('slow');
+     });
+
+
   
       $("form").submit(function(){
         var name = document.getElementById('name').value;
