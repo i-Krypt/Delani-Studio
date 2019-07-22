@@ -7,8 +7,9 @@ Delani studio
 <img src="https://i.ibb.co/18TKxxv/Screenshot-from-2019-07-22-08-29-19.png" width="900px" height="440px">
 
 ## Setup/Installation Requirements
-Computer or Smartphone.
-Website link : https://i-krypt.github.io/Portfolio/
+Open Terminal {Ctrl+Alt+T}
+git clone 
+code . or atom . based on the text editor you have.
 #Active links to more of my works
 1.https://drive.google.com/open?id=1kyh8PqipGlCrNC9YbmtbA0Gu3zknhthW
 2.https://github.com/i-Krypt/One-M.git
@@ -16,22 +17,15 @@ Website link : https://i-krypt.github.io/Portfolio/
 Sam Nujoma
 
 ## Technologies Used
-* [HTML5]
-* [CSS]
-* [Bootstrap]
-* [jQuery]
+* [HTML5](https://github.com/topics/html5)
+* [CSS](https://github.com/topics/css3)
+* [Bootstrap](https://github.com/topics/bootstrap)
+* [jQuery](https://github.com/topics/javascript)
 * markdown
 
 ## Support and contact details
 Reach out via email:vamay505@gmail.com
 
-## BDD
-| Behaviour      | Input        | Output       |
-| :------------- | :----------: | -----------: |
-|  Enter your name  |   Jeff Sam |     |
-| Enter your Email Address  | vamay505@gmail.com |   |
-| Enter your message or comment   |  I would love to work with you     |     |
-| Press Submit|     |Pop up "Sam Nujoma , we have received your message. Thank you for reaching out to us.|
 ## Support and contact details
 Contact me via email:vamay505@gmail.com
 ### License
